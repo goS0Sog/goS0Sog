@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @goS0Sog
 - 👀 I’m interested in ... crating trading bots
 - 🌱 I’m currently learning ... Python and API coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... API trading
 - 📫 How to reach me ... @Lorenzj on Telegram
 
 <!---
